@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210105', u'urlbase': u'/th?id=OHR.RedFrontMacaw_EN-US4052029435', u'fullstartdate': u'202101050800', u'copyright': u'Red-fronted macaws in Omerque, Cochabamba, Bolivia (\xc2\xa9 Bernard Castelein/Minden Pictures)', u'title': u'Flying high on National Bird Day', u'url': u'/th?id=OHR.RedFrontMacaw_EN-US4052029435_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'dac278f3992ff1dba7f549a0c324c08e', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210105_RedFrontMacaw%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=red-fronted+macaw+nature+reserve+in+bolivia&form=hpcapt&filters=HpDate%3a%2220210105_0800%22', u'wp': True, u'enddate': u'20210106', u'top': 1}
