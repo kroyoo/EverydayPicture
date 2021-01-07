@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210107', u'urlbase': u'/th?id=OHR.WhiteCliffs_EN-US5777446191', u'fullstartdate': u'202101070800', u'copyright': u'White Cliffs of Dover, England (\xc2\xa9 LisaValder/Getty Images)', u'title': u'Of balloons and lost pantaloons', u'url': u'/th?id=OHR.WhiteCliffs_EN-US5777446191_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'423f4398006d53ba09d83d1a9ffd204e', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210107_WhiteCliffs%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=white+cliffs+of+dover&form=hpcapt&filters=HpDate%3a%2220210107_0800%22', u'wp': True, u'enddate': u'20210108', u'top': 1}
