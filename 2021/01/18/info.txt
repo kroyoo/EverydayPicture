@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210118', u'urlbase': u'/th?id=OHR.IHADInscription_EN-US1526588709', u'fullstartdate': u'202101180800', u'copyright': u"'I Have a Dream' inscription at the location of Dr. Martin Luther King Jr.'s speech on the steps of the Lincoln Memorial in Washington, DC (\xc2\xa9 Pgiam/Getty Images)", u'title': u'A step toward freedom', u'url': u'/th?id=OHR.IHADInscription_EN-US1526588709_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'1eb02376e0f10742f5d47c6ed92cb510', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210118_IHADInscription%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=martin+luther+king+day&form=hpcapt&filters=HpDate%3a%2220210118_0800%22', u'wp': False, u'enddate': u'20210119', u'top': 1}
