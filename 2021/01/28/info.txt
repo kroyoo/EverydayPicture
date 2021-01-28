@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210128', u'urlbase': u'/th?id=OHR.ArcticWolf_EN-US5836595388', u'fullstartdate': u'202101280800', u'copyright': u'Arctic wolf family in Canada (\xc2\xa9 4FR/Getty Images)', u'title': u'Avatars of the Wolf Moon', u'url': u'/th?id=OHR.ArcticWolf_EN-US5836595388_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'05edf45df94d20e5a7c0e190f09fd302', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210128_ArcticWolf%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=arctic+wolf+(Canis+lupus+arctos)&FORM=hpcapt&filters=HpDate%3a%2220210128_0800%22', u'wp': True, u'enddate': u'20210129', u'top': 1}
