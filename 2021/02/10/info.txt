@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210210', u'urlbase': u'/th?id=OHR.PenitentSnow_EN-US0047515629', u'fullstartdate': u'202102100800', u'copyright': u'Nieve penitente ice formations seen on Agua Negra Pass in the Coquimbo Region of the Andes, Chile (\xc2\xa9 Art Wolfe/Danita Delimont)', u'title': u'A throng of ice and spires', u'url': u'/th?id=OHR.PenitentSnow_EN-US0047515629_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'a0c5788fddebfa6479d42f911460e79a', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210210_PenitentSnow%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=penitente+snow+formations&form=hpcapt&filters=HpDate%3a%2220210210_0800%22', u'wp': True, u'enddate': u'20210211', u'top': 1}
