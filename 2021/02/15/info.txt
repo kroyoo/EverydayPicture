@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210215', u'urlbase': u'/th?id=OHR.Lincoln50MoWA_EN-US4174714087', u'fullstartdate': u'202102150800', u'copyright': u'Lincoln Memorial in Washington, DC (\xc2\xa9 White House Photo/Alamy)', u'title': u'Presidents hear the echo of history', u'url': u'/th?id=OHR.Lincoln50MoWA_EN-US4174714087_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'91e18310c7be6754709a230e7f0e23c5', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210215_Lincoln50MoWA%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=presidents+day&form=hpcapt&filters=HpDate%3a%2220210215_0800%22', u'wp': False, u'enddate': u'20210216', u'top': 1}
