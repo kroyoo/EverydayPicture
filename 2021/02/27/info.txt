@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210227', u'urlbase': u'/th?id=OHR.TwinsDenning_EN-US9910127756', u'fullstartdate': u'202102270800', u'copyright': u'Twin polar bear cubs asleep in a snow den in Wapusk National Park, Manitoba, Canada (\xc2\xa9 AF archive/Alamy)', u'title': u'A snuggling ball of cute', u'url': u'/th?id=OHR.TwinsDenning_EN-US9910127756_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'e921d94c39f43e0dbdc83a70bc6c58ba', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210227_TwinsDenning%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=polar+bear&form=hpcapt&filters=HpDate%3a%2220210227_0800%22', u'wp': False, u'enddate': u'20210228', u'top': 1}
