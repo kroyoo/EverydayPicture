@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210311', u'urlbase': u'/th?id=OHR.CapePerpetua_EN-US1381606733', u'fullstartdate': u'202103110800', u'copyright': u"Thor's Well at Cape Perpetua on the Oregon coast (\xc2\xa9 Cavan Images/Offset by Shutterstock)", u'title': u"Welcome to the 'drainpipe of the Pacific'", u'url': u'/th?id=OHR.CapePerpetua_EN-US1381606733_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'd57d31cc41cd9510229e45a33c876e4b', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210311_CapePerpetua%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=thor%27s+well+oregon&form=hpcapt&filters=HpDate%3a%2220210311_0800%22', u'wp': True, u'enddate': u'20210312', u'top': 1}
