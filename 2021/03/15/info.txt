@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210315', u'urlbase': u'/th?id=OHR.MassapequaOwl_EN-US8469635086', u'fullstartdate': u'202103150700', u'copyright': u'Screech owl resting in a tree cavity, Massapequa Preserve, Long Island, New York (\xc2\xa9 Vicki Jauron, Babylon and Beyond Photography/Getty Images)', u'title': u'Every day is Napping Day for this screech owl', u'url': u'/th?id=OHR.MassapequaOwl_EN-US8469635086_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'692a422ed7986fa4d8862b327d81d43b', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210315_MassapequaOwl%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=eastern+screech+owl&FORM=hpcapt&filters=HpDate%3a%2220210315_0700%22', u'wp': True, u'enddate': u'20210316', u'top': 1}
