@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210325', u'urlbase': u'/th?id=OHR.GoldMine_EN-US9932494168', u'fullstartdate': u'202103250700', u'copyright': u'Ancient Roman gold mining site of Las M\xe9dulas, Le\xf3n province, Spain (\xa9 David Santiago Garcia/Getty Images)', u'title': u'There was gold in them there hills\u2026', u'url': u'/th?id=OHR.GoldMine_EN-US9932494168_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'1590e0007ad46d5ed5cf6ff170ad1ca1', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210325_GoldMine%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=las+medulas&form=hpcapt&filters=HpDate%3a%2220210325_0700%22', u'wp': True, u'enddate': u'20210326', u'top': 1}
