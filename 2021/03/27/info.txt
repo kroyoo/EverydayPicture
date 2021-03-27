@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210327', u'urlbase': u'/th?id=OHR.MadHares_EN-US7045432576', u'fullstartdate': u'202103270700', u'copyright': u'Mountain hare running across snow-covered upland, Scotland (\xc2\xa9 SCOTLAND: The Big Picture/Minden Pictures)', u'title': u"Blink and you'll miss it", u'url': u'/th?id=OHR.MadHares_EN-US7045432576_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'8b2409d18e928866cd703ac6dbb25f0d', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210327_MadHares%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=mountain+hare+Lepus+timidus&FORM=hpcapt&filters=HpDate%3a%2220210327_0700%22', u'wp': True, u'enddate': u'20210328', u'top': 1}
