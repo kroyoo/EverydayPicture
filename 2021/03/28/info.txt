@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210328', u'urlbase': u'/th?id=OHR.JeffersonCherries_EN-US7147255858', u'fullstartdate': u'202103280700', u'copyright': u'The Jefferson Memorial during the National Cherry Blossom Festival in Washington, DC (\xc2\xa9 Rae Gabrielle/Alamy)', u'title': u'Cherry blossoms spring to life', u'url': u'/th?id=OHR.JeffersonCherries_EN-US7147255858_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'7a3a88b991d10525569f0bd9d2cfbd7d', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210328_JeffersonCherries%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=national+cherry+blossom+festival&FORM=hpcapt&filters=HpDate%3a%2220210328_0700%22', u'wp': True, u'enddate': u'20210329', u'top': 1}
