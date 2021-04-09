@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210409', u'urlbase': u'/th?id=OHR.HovenweepDarkSky_EN-US6328400931', u'fullstartdate': u'202104090700', u'copyright': u'Square Tower Group in Hovenweep National Monument, Utah (\xc2\xa9 Brad McGinley Photography/Getty Images)', u'title': u'A timeless view of the night sky', u'url': u'/th?id=OHR.HovenweepDarkSky_EN-US6328400931_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'92ee15b2c14f8f839a9d8e6c17964bc8', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210409_HovenweepDarkSky%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=hovenweep+national+monument&form=hpcapt&filters=HpDate%3a%2220210409_0700%22', u'wp': True, u'enddate': u'20210410', u'top': 1}
