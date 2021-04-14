@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210414', u'urlbase': u'/th?id=OHR.CarrizoPlain_EN-US7034817036', u'fullstartdate': u'202104140700', u'copyright': u'Wildflowers in the Carrizo Plain National Monument, California (\xc2\xa9 Dennis Frates/Alamy)', u'title': u'Nothing plain about it', u'url': u'/th?id=OHR.CarrizoPlain_EN-US7034817036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'179e6609270443422ecd3743588f96f9', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210414_CarrizoPlain%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=carrizo+plain+national+monument&form=hpcapt&filters=HpDate%3a%2220210414_0700%22', u'wp': True, u'enddate': u'20210415', u'top': 1}
