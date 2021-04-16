@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210416', u'urlbase': u'/th?id=OHR.DaliMuseum_EN-US9901160892', u'fullstartdate': u'202104160700', u'copyright': u'Dal\xed Theatre-Museum in Figueres, Spain (\xa9 Valerija Polakovska/Shutterstock)', u'title': u"'A theatrical dream'", u'url': u'/th?id=OHR.DaliMuseum_EN-US9901160892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'e2e07d2aee9d92ee00e8011457ef96b7', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210416_DaliMuseum%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=%2bdali+theater-museum&form=hpcapt&filters=HpDate%3a%2220210416_0700%22', u'wp': False, u'enddate': u'20210417', u'top': 1}
