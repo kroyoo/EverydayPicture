@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210420', u'urlbase': u'/th?id=OHR.Ceking_EN-US7899895685', u'fullstartdate': u'202104200700', u'copyright': u'Tegallalang Rice Terraces, Ubud, Bali, Indonesia (\xc2\xa9 Michele Falzone/Alamy)', u'title': u'Terraced fields of green', u'url': u'/th?id=OHR.Ceking_EN-US7899895685_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'52660a2d4287fe84c783ddc7debb85df', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210420_Ceking%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=%2btegallalang+rice+terrace&FORM=hpcapt&filters=HpDate%3a%2220210420_0700%22', u'wp': True, u'enddate': u'20210421', u'top': 1}
