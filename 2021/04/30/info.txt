@@ -1,0 +1,4 @@
+File dir did not exist, make dir...
+makedirs dir success
+文件创建成功！
+{u'startdate': u'20210430', u'urlbase': u'/th?id=OHR.SpiritHarlem_EN-US1474494856', u'fullstartdate': u'202104300700', u'copyright': u"'The Spirit of Harlem' mural by Louis Delsarte in Harlem, New York City (\xc2\xa9 Pietro Scozzari/agefotostock)", u'title': u"'The Spirit of Harlem' by Louis Delsarte", u'url': u'/th?id=OHR.SpiritHarlem_EN-US1474494856_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp', u'hs': [], u'hsh': u'ab6fe66f26a5dca681eae672fc2febc3', u'bot': 1, u'quiz': u'/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20210430_SpiritHarlem%22&FORM=HPQUIZ', u'drk': 1, u'copyrightlink': u'https://www.bing.com/search?q=international+jazz+day&form=hpcapt&filters=HpDate%3a%2220210430_0700%22', u'wp': False, u'enddate': u'20210501', u'top': 1}
